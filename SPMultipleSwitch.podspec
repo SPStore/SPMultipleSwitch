@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-                   	一个分段选择器
+                   	这是一个分段选择器
 			DESC
 
   spec.homepage     = "https://github.com/SPStore/SPMultipleSwitch"
@@ -53,7 +53,7 @@ Pod::Spec.new do |spec|
   #  profile URL.
   #
 
-  spec.author             = { "乐升平" => "lesp163@163.com" }
+  spec.author             = { "SPStore" => "lesp163@163.com" }
   # Or just: spec.author    = "乐升平"
   # spec.authors            = { "乐升平" => "lesp163@163.com" }
   # spec.social_media_url   = "https://twitter.com/乐升平"
@@ -80,7 +80,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "http://EXAMPLE/SPMultipleSwitch.git", :tag => spec.version }
+  spec.source       = { :git => "https://github.com/SPStore/SPMultipleSwitch.git", :tag => spec.version }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
