@@ -22,3 +22,5 @@ pod "SPMultipleSwitch", "~> 1.0"
     [multipleSwitch addTarget:self action:@selector(multipleSwitchAction:) forControlEvents:UIControlEventTouchUpInside];
     [self.view addSubview:multipleSwitch];
 ```
+## Swift版
+[DGRunkeeperSwitch](https://github.com/gontovnik/DGRunkeeperSwitch)
